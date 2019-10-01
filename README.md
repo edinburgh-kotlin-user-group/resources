@@ -1,2 +1,4 @@
-# thinkers
-Puzzles and pieces of discussion code 
+# Kotlin Thinkers
+
+Puzzles and pieces of discussion code used in the Edinburgh Kotlin User Group.
+
