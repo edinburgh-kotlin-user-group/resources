@@ -12,7 +12,7 @@ Puzzles and pieces of discussion code used in the Edinburgh Kotlin User Group.
 
   - A strange (IntelliJ IDEA) IDE complaint when writing constants in Kotlin in our Tumbola
 
-## EdiKUG 2: A Generic Talk on Kotlin (Main Talk)
+## EdiKUG 2: [A Generic Talk on Kotlin](https://github.com/edinburgh-kotlin-user-group/MrBergin/releases/tag/edi_kug_2) (Main Talk)
 
  - A possible upgrade of the Tumbola 
  - Unexpected loop behaviour, especially when auto-converting from Java
