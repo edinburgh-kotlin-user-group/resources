@@ -8,4 +8,4 @@ If a community member engages in harassing behaviour, the Edinburgh Kotlin User 
 
 If you have questions or feedback about this Code of Conduct please contact one of the organisers.
 
-Edinburgh Kotlin User Group developed this Code of Conduct to govern all Edinburgh Kotlin User Group events and communication channels. We used the [PDX Python anti-harassment policy](https://www.meetup.com/pdxpython/pages/12061872/Code_of_Conduct/) as a starting point. This Code of Conduct, like its inspiration, is licensed under the Creative Commons Zero license.
+Edinburgh Kotlin User Group developed this Code of Conduct to govern all Edinburgh Kotlin User Group events and communication channels. We used the [PDX Python anti-harassment policy](https://www.meetup.com/pdxpython/pages/12061872/Code_of_Conduct/) as a starting point. This Code of Conduct, like its inspiration, is licensed under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).
