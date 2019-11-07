@@ -45,6 +45,23 @@ fun questionKugNumber2(){
     }
 }
 
+
+/**
+ * # Kotlin User Group Meeting 3
+ *
+ * This piece of code creates something different, depending on the
+ * operating system it's run on.
+ *
+ * Should be pretty easy to guess which OS is the exception but can
+ * anyone tell us why?
+ */
+fun questionKugNumber3(){
+    const val value my_Multi_Line_String = """
+                Why is this code
+                not mulitplatorm?
+                """.trimMargin()
+}
+
 fun main() {
-    questionKugNumber2()
+    questionKugNumber3()
 }
