@@ -20,4 +20,4 @@ Puzzles and pieces of discussion code used in the Edinburgh Kotlin User Group.
 
 ### EdiKUG 3: [Parser Combinators in Kotlin](https://github.com/edinburgh-kotlin-user-group/Parser-Combinators-In-Kotlin) (Main Talk)
 
-### EdiKUG 4: Property based testing in Kotlin, a Tale of Two Libraries (Upcoming)
+### EdiKUG 4: Property based testing in Kotlin, a Tale of Two Libraries
