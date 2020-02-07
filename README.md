@@ -19,5 +19,6 @@ Puzzles and pieces of discussion code used in the Edinburgh Kotlin User Group.
  - [Unexpected loop behaviour](https://github.com/edinburgh-kotlin-user-group/resources/blob/master/src/main/kotlin/com/kug/Questions.kt#L39), especially when auto-converting from Java
 
 ### EdiKUG 3: [Parser Combinators in Kotlin](https://github.com/edinburgh-kotlin-user-group/Parser-Combinators-In-Kotlin) (Main Talk)
+ - [Platform independant code in Kotlin](https://github.com/edinburgh-kotlin-user-group/resources/blob/master/src/main/kotlin/com/kug/Questions.kt#L58) using multi-line strings.
 
 ### EdiKUG 4: Property based testing in Kotlin, a Tale of Two Libraries
