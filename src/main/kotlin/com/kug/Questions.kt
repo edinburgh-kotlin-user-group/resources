@@ -62,6 +62,29 @@ fun questionKugNumber3(){
                 """.trimMargin()
 }
 
+/**
+ * 1. What does it print?
+ * 2. How do you prevent the caller breaking the forEach loop?
+ * Bonus: 3. What happens if puzzlePieces is private?
+ */
+typealias PuzzlePiece = String
+
+class Puzzle {
+    val puzzlePieces: List<PuzzlePiece> = listOf("foo", "bar", "qux")
+    inline fun inspectPieces(inspect: (PuzzlePiece) -> Unit) =
+        puzzlePieces.forEach(inspect)
+}
+
+fun questionKugNumber4(){
+    val p = Puzzle()
+    p.inspectPieces { pp ->
+        if (pp == "bar")
+            return
+        else
+            println(pp)
+    }
+}
+
 fun main() {
-    questionKugNumber3()
+    questionKugNumber4()
 }
