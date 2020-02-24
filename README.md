@@ -20,6 +20,8 @@ Puzzles and pieces of discussion code used in the Edinburgh Kotlin User Group.
 
 ### EdiKUG 3: [Parser Combinators in Kotlin](https://github.com/edinburgh-kotlin-user-group/Parser-Combinators-In-Kotlin) (Main Talk)
  - [Platform independant code in Kotlin](https://github.com/edinburgh-kotlin-user-group/resources/blob/master/src/main/kotlin/com/kug/Questions.kt#L58) using multi-line strings.
+ - [Neils personal video of the talk](https://vimeo.com/393132096)
 
 ### EdiKUG 4: Property based testing in Kotlin, a Tale of Two Libraries
  - [Unexpected return problem](https://github.com/edinburgh-kotlin-user-group/resources/blob/master/src/main/kotlin/com/kug/Questions.kt#L78)
+ 
